@@ -1,0 +1,52 @@
+id,original,modern,sentiment,sentiment_id,xlm_pred,bert_pred,sim_xlm,sim_bert
+1,"Pərvərdigara, bu necə əsrdir?","Pərvərdigara, bu nə dövrdür?",negative,0,1,1,0.9298606,0.93763494
+2,Bu necə zəmanədir?,Bu nə zamandır belə?,negative,0,1,0,0.95764077,0.81558454
+3,"Nə at çapmağın qiyməti var, nə tüfəng atmağın hörməti var!","Nə at çapmağın dəyəri qalıb, nə də tüfəng atmağın hörməti!",negative,0,1,2,0.99961215,0.9578997
+4,"Sabahdan axşamadək, axşamdan sabahadək arvad kimi gərək dustaq alaçığın içində oturasan.","Səhərdən axşama, axşamdan səhərə qədər qadın kimi alaçığın içində dustaq oturmalı olursan.",negative,0,1,0,0.982276,0.8878523
+5,"Dövlət dəxi haradan olsun, pul haradan olsun!?","Dövlət haradan olsun, pul haradan gəlsin?",negative,0,1,0,0.9865753,0.9010184
+6,"Ah, keçən günlər!","Ah, keçmiş günlər.",negative,0,2,2,0.99954253,0.8209971
+7,Keçən dövrlər!,Keçmiş dövrlər.,negative,0,1,2,0.9995574,0.6724725
+8,"Hər həftədə, hər ayda bir karvan çapmaq olurdu, bir ordu dağıtmaq olurdu.","Hər həftə, hər ay bir karvan basmaq olurdu, bir ordu dağıtmaq olurdu.",positive,2,1,0,0.9799754,0.97626024
+9,"İndi nə karvan çapmaq olur, nə ordu dağıtmaq olur!","İndi isə nə karvan basmaq mümkündür, nə də ordu dağıtmaq.",negative,0,1,1,0.95607555,0.83732563
+10,"Nə qızılbaş döyüşü var, nə osmanlı döyüşü var!","Nə qızılbaş döyüşü var, nə osmanlı döyüşü.",negative,0,1,0,0.99891603,0.9384482
+11,Əgər qoşuna getmək istəsən də gərək ancaq çılpaq ləzgilərin üstünə gedəsən.,"Əgər qoşuna getmək istəsən də, ancaq yarıçılpaq ləzgilərin üstünə getməli olursan.",negative,0,1,0,0.98004866,0.9150888
+12,"Əgər yüz min zəhmətlə birisini dağların dəlik-deşiyindən çıxarsan, bir dağarcıq, bir kürkdən başqa əlinə bir zad düşməyəcək.","Min bir əziyyətlə dağların arasından birini çıxarsan belə, əlinə bir kisə, bir kürkdən başqa heç nə keçmir.",negative,0,0,0,0.99454063,0.8497434
+13,"Hanı qızılbaş və osmanlı döyüşü ki, tamam Qarabağı qızıl-gümüşə boyadı?","Hanı o qızılbaş–osmanlı döyüşləri ki, bütün Qarabağı qızıl-gümüşə bürümüşdü?",negative,0,0,0,0.9836897,0.9321589
+14,Aslandüzün çapqınından indiyədək də çox evlər abaddır.,Aslandüz yürüşündən bu günə qədər hələ də neçə-neçə ev varlı yaşayır.,neutral,1,1,2,0.9615643,0.78817296
+15,Əmiraslan bəyin övladı genə dünən də Ağcabədi bazarında dədələri osmanlıda kəsb etdiyi gümüş rəxtlərdən satırdılar.,Əmiraslan bəyin nəvələri hələ dünən Ağcabədi bazarında babalarının osmanlılardan qazanıb gətirdiyi gümüş əşyaları satırdılar.,neutral,1,1,1,0.99938565,0.93453234
+16,"Bir belə döyüş olsun, hamıdan irəli dəstə başında gedən mən ollam!","Bir də elə bir döyüş olsun, hamıdan qabaqda dəstənin başında mən gedim.",positive,2,1,0,0.96428794,0.8902666
+17,"Bir hünər göstərrəm ki, Rüstəmi-dastan da göstərməmiş ola!","Elə bir igidlik göstərim ki, Rüstəm də dastanlarda eləsini göstərməyib.",positive,2,0,0,0.967228,0.77838624
+18,Mənim işim budur!,Mənim işim budur.,neutral,1,1,2,0.9991545,0.8420031
+19,"Nə ki, naçalnik məni çağırıb deyir: Heydər bəy, rahat dur-otur, quldurluq etmə, yol kəsmə, oğurluğa getmə!","Amma naçalnik məni çağırıb deyir ki, Heydər bəy, sakit otur, quldurluq etmə, yol kəsmə, oğurluğa getmə.",neutral,1,0,0,0.9964987,0.94289625
+20,"Peşman oldum dedim ki, naçalnik, biz də bu əmrə rağib deyilik, amma sizə lazımdır ki, bizim kimi nəcib kimsənələrə bir çörək yolu göstərəsiniz.","Mən də dedim ki, naçalnik, biz də bu işlərə meyilli deyilik, amma sizin borcunuzdur ki, bizim kimi nəcabətli adamlara halal bir dolanışıq yolu göstərəsiniz.",neutral,1,1,0,0.99941224,0.94389117
+21,"Qulaq as, gör mənə nə cavab verdi.","Qulaq asın, mənə nə cavab verdi.",neutral,1,0,0,0.9996436,0.9634087
+22,"Heydər bəy, cüt ək, bağ becər, alış-veriş elə.","Heydər bəy, torpaq ək, bağ becər, alver elə.",neutral,1,1,0,0.97283685,0.9571053
+23,"Guya ki, mən Banazor ermənisiyəm ki, gərək gündüz axşamadək kotan sürəm.","Guya mən Banazorlu erməniyəm ki, səhərdən axşama qədər kotan sürüm?",negative,0,1,0,0.9721828,0.88849586
+24,"Ya ləmbəranlıyam ki, qurd bəsləyəm.","Ya ləmbəranlıyam ki, qurd bəsləyim?",negative,0,0,0,0.9600173,0.9424988
+25,"Və ya ləkəm ki, kəndlərdə çərçilik edəm!","Ya da ləkəm ki, kənd-kənd gəzib xırda ticarət edim?",negative,0,1,0,0.95076925,0.81924677
+26,"Ərz elədim ki, naçalnik, heç vaxt Cavanşirdən kotançı və gümçü görükməyib!","Dedim ki, naçalnik, Cavanşir elindən heç vaxt nə kotançı, nə də xırdavatçı çıxmayıb.",neutral,1,0,0,0.9866272,0.80651546
+27,Mənim atam Qurban bəy onu etməyib.,Atam Qurban bəy bu işi görməyib.,neutral,1,0,0,0.99942976,0.8424194
+28,"Mən ki, onun oğlu Heydər bəyəm, mən də etməyəcəyəm!",Mən də onun oğlu Heydər bəyəm və mən də etməyəcəyəm.,positive,2,1,2,0.95754606,0.8947822
+29,Qaş-qabaqlı üzün çevirib atın sürdü.,O isə qaşlarını çatıb üzünü çevirdi və atını sürüb getdi.,neutral,1,0,0,0.9679643,0.7875464
+30,"Allah, görəsən genə nə oldu, gəlmədi!","Allah bilir, yenə nə oldu, gəlmədi.",negative,0,0,0,0.9994431,0.8762254
+31,"Gecə yarıdan ötübdür, hələ indiyədək görükmür.","Gecə yarı keçib, hələ də görünmür.",negative,0,1,1,0.9506434,0.88869894
+32,"Dan yeri ağarıb, sabah indicə açılar.","Sübh açılır, dan yeri ağarıb.",neutral,1,0,0,0.9925721,0.83813906
+33,Bilmirəm necə edim?,Bilmirəm nə edim.,negative,0,0,1,0.99951357,0.8155016
+34,"Bir azacıq da gözətləyim, əgər gəlməsə, çarə yoxdur, gərək alaçığa qayıdam.","Bir az da gözləyim, əgər gəlməsə, çarə yoxdur, alaçığa qayıdım.",negative,0,0,0,0.9985332,0.9703471
+35,"Xeyir, gəlmir!","Yox, gəlmir.",negative,0,0,0,0.99950045,0.76113
+36,"Yəqin ki, dəxi gəlməz.","Yəqin ki, artıq gəlməyəcək.",negative,0,1,1,0.99872416,0.8765505
+37,"Şəkk yoxdur ki, gəlməyəcək!","Şübhə yoxdur, bu gecə də gəlməyəcək.",negative,0,1,1,0.99602556,0.7440497
+38,"Görəsən genə hansı dəli qudurmuşa rast gəldi, tovlayıb at, mal oğurluğuna götürüb getdi.","Görəsən yenə hansı dəli ilə rastlaşıb, aldadılıb at və mal oğurluğuna gedib?",negative,0,0,0,0.9754965,0.85184336
+39,Yoxsa bu vaxtadək gərək idi gələydi.,Yoxsa bu vaxta qədər çoxdan gəlməli idi.,negative,0,1,0,0.9985901,0.8342093
+40,Öhdəsindən gələ bilmirəm.,Mən bunun öhdəsindən gələ bilmirəm.,negative,0,0,1,0.92455006,0.8996762
+41,"Əgər bu səfər də tanıyalar, gərək genə təzədən qaçaq ola, mənim günümü qara edə.","Əgər bu dəfə də onu tanısalar, yenə qaçaq düşəcək və mənim həyatımı zəhər edəcək.",negative,0,0,0,0.9669349,0.8859857
+42,Genə iki il evdə məni dustaq eyliyə.,Yenə iki il məni evdə dustaq saxlayacaq.,negative,0,1,0,0.96588373,0.8663168
+43,"Vallah, dəxi gözləmənəm!","Yox, vallah, daha gözləməyəcəyəm.",positive,2,2,0,0.91672105,0.78347874
+44,"Onun fikri budur ki, atam evində mənim birçəyimi ağarda.","Onun fikri budur ki, atam evində mənim saçımı ağartsın.",negative,0,0,1,0.9987128,0.92035276
+45,"Eh, nə vəsvəsələr gəlir könlümə!","Eh, könlümdən nə fikirlər keçir.",negative,0,0,0,0.99602777,0.80457973
+46,"Şəksiz, yubanmağına başqa səbəb var.","Şübhəsiz, gecikməsinin başqa səbəbi var.",neutral,1,1,1,0.9769964,0.85078716
+47,"Ax, indi bu kolun dalında qulaq asıb eşidəydi ki, mən deyirəm: gedərəm özgəsinə.","Kaş indi bu kolun arxasında dayanıb eşidəydi ki, mən deyirəm, gedərəm başqasına.",negative,0,0,0,0.9990372,0.934453
+48,Görəsən inanardımı?,Görəsən inanardımı?,neutral,1,1,0,0.9999992,0.9999999
+49,"Əlbəttə inanmayacaqdır, çünki bilir, yalan deyirəm.","Əlbəttə ki, inanmazdı, çünki bilir ki, yalan danışıram.",negative,0,0,1,0.99914503,0.92198855
+50,"Hövsələm daralıb, ağzıma gələni söyləyirəm.",Hirslənmişəm və ağlıma gələni deyirəm.,negative,0,0,0,0.9991795,0.89784014
+51,"Bıy, şıqqıltı gəlir.","Ay, bir səs gəlir.",neutral,1,1,0,0.83353937,0.64850616

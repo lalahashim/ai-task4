@@ -1,0 +1,52 @@
+id,original,modern,sentiment
+1,"Pərvərdigara, bu necə əsrdir?","Pərvərdigara, bu nə dövrdür?",negative
+2,Bu necə zəmanədir?,Bu nə zamandır belə?,negative
+3,"Nə at çapmağın qiyməti var, nə tüfəng atmağın hörməti var!","Nə at çapmağın dəyəri qalıb, nə də tüfəng atmağın hörməti!",negative
+4,"Sabahdan axşamadək, axşamdan sabahadək arvad kimi gərək dustaq alaçığın içində oturasan.","Səhərdən axşama, axşamdan səhərə qədər qadın kimi alaçığın içində dustaq oturmalı olursan.",negative
+5,"Dövlət dəxi haradan olsun, pul haradan olsun!?","Dövlət haradan olsun, pul haradan gəlsin?",negative
+6,"Ah, keçən günlər!","Ah, keçmiş günlər.",negative
+7,Keçən dövrlər!,Keçmiş dövrlər.,negative
+8,"Hər həftədə, hər ayda bir karvan çapmaq olurdu, bir ordu dağıtmaq olurdu.","Hər həftə, hər ay bir karvan basmaq olurdu, bir ordu dağıtmaq olurdu.",positive
+9,"İndi nə karvan çapmaq olur, nə ordu dağıtmaq olur!","İndi isə nə karvan basmaq mümkündür, nə də ordu dağıtmaq.",negative
+10,"Nə qızılbaş döyüşü var, nə osmanlı döyüşü var!","Nə qızılbaş döyüşü var, nə osmanlı döyüşü.",negative
+11,Əgər qoşuna getmək istəsən də gərək ancaq çılpaq ləzgilərin üstünə gedəsən.,"Əgər qoşuna getmək istəsən də, ancaq yarıçılpaq ləzgilərin üstünə getməli olursan.",negative
+12,"Əgər yüz min zəhmətlə birisini dağların dəlik-deşiyindən çıxarsan, bir dağarcıq, bir kürkdən başqa əlinə bir zad düşməyəcək.","Min bir əziyyətlə dağların arasından birini çıxarsan belə, əlinə bir kisə, bir kürkdən başqa heç nə keçmir.",negative
+13,"Hanı qızılbaş və osmanlı döyüşü ki, tamam Qarabağı qızıl-gümüşə boyadı?","Hanı o qızılbaş–osmanlı döyüşləri ki, bütün Qarabağı qızıl-gümüşə bürümüşdü?",negative
+14,Aslandüzün çapqınından indiyədək də çox evlər abaddır.,Aslandüz yürüşündən bu günə qədər hələ də neçə-neçə ev varlı yaşayır.,neutral
+15,Əmiraslan bəyin övladı genə dünən də Ağcabədi bazarında dədələri osmanlıda kəsb etdiyi gümüş rəxtlərdən satırdılar.,Əmiraslan bəyin nəvələri hələ dünən Ağcabədi bazarında babalarının osmanlılardan qazanıb gətirdiyi gümüş əşyaları satırdılar.,neutral
+16,"Bir belə döyüş olsun, hamıdan irəli dəstə başında gedən mən ollam!","Bir də elə bir döyüş olsun, hamıdan qabaqda dəstənin başında mən gedim.",positive
+17,"Bir hünər göstərrəm ki, Rüstəmi-dastan da göstərməmiş ola!","Elə bir igidlik göstərim ki, Rüstəm də dastanlarda eləsini göstərməyib.",positive
+18,Mənim işim budur!,Mənim işim budur.,neutral
+19,"Nə ki, naçalnik məni çağırıb deyir: Heydər bəy, rahat dur-otur, quldurluq etmə, yol kəsmə, oğurluğa getmə!","Amma naçalnik məni çağırıb deyir ki, Heydər bəy, sakit otur, quldurluq etmə, yol kəsmə, oğurluğa getmə.",neutral
+20,"Peşman oldum dedim ki, naçalnik, biz də bu əmrə rağib deyilik, amma sizə lazımdır ki, bizim kimi nəcib kimsənələrə bir çörək yolu göstərəsiniz.","Mən də dedim ki, naçalnik, biz də bu işlərə meyilli deyilik, amma sizin borcunuzdur ki, bizim kimi nəcabətli adamlara halal bir dolanışıq yolu göstərəsiniz.",neutral
+21,"Qulaq as, gör mənə nə cavab verdi.","Qulaq asın, mənə nə cavab verdi.",neutral
+22,"Heydər bəy, cüt ək, bağ becər, alış-veriş elə.","Heydər bəy, torpaq ək, bağ becər, alver elə.",neutral
+23,"Guya ki, mən Banazor ermənisiyəm ki, gərək gündüz axşamadək kotan sürəm.","Guya mən Banazorlu erməniyəm ki, səhərdən axşama qədər kotan sürüm?",negative
+24,"Ya ləmbəranlıyam ki, qurd bəsləyəm.","Ya ləmbəranlıyam ki, qurd bəsləyim?",negative
+25,"Və ya ləkəm ki, kəndlərdə çərçilik edəm!","Ya da ləkəm ki, kənd-kənd gəzib xırda ticarət edim?",negative
+26,"Ərz elədim ki, naçalnik, heç vaxt Cavanşirdən kotançı və gümçü görükməyib!","Dedim ki, naçalnik, Cavanşir elindən heç vaxt nə kotançı, nə də xırdavatçı çıxmayıb.",neutral
+27,Mənim atam Qurban bəy onu etməyib.,Atam Qurban bəy bu işi görməyib.,neutral
+28,"Mən ki, onun oğlu Heydər bəyəm, mən də etməyəcəyəm!",Mən də onun oğlu Heydər bəyəm və mən də etməyəcəyəm.,positive
+29,Qaş-qabaqlı üzün çevirib atın sürdü.,O isə qaşlarını çatıb üzünü çevirdi və atını sürüb getdi.,neutral
+30,"Allah, görəsən genə nə oldu, gəlmədi!","Allah bilir, yenə nə oldu, gəlmədi.",negative
+31,"Gecə yarıdan ötübdür, hələ indiyədək görükmür.","Gecə yarı keçib, hələ də görünmür.",negative
+32,"Dan yeri ağarıb, sabah indicə açılar.","Sübh açılır, dan yeri ağarıb.",neutral
+33,Bilmirəm necə edim?,Bilmirəm nə edim.,negative
+34,"Bir azacıq da gözətləyim, əgər gəlməsə, çarə yoxdur, gərək alaçığa qayıdam.","Bir az da gözləyim, əgər gəlməsə, çarə yoxdur, alaçığa qayıdım.",negative
+35,"Xeyir, gəlmir!","Yox, gəlmir.",negative
+36,"Yəqin ki, dəxi gəlməz.","Yəqin ki, artıq gəlməyəcək.",negative
+37,"Şəkk yoxdur ki, gəlməyəcək!","Şübhə yoxdur, bu gecə də gəlməyəcək.",negative
+38,"Görəsən genə hansı dəli qudurmuşa rast gəldi, tovlayıb at, mal oğurluğuna götürüb getdi.","Görəsən yenə hansı dəli ilə rastlaşıb, aldadılıb at və mal oğurluğuna gedib?",negative
+39,Yoxsa bu vaxtadək gərək idi gələydi.,Yoxsa bu vaxta qədər çoxdan gəlməli idi.,negative
+40,Öhdəsindən gələ bilmirəm.,Mən bunun öhdəsindən gələ bilmirəm.,negative
+41,"Əgər bu səfər də tanıyalar, gərək genə təzədən qaçaq ola, mənim günümü qara edə.","Əgər bu dəfə də onu tanısalar, yenə qaçaq düşəcək və mənim həyatımı zəhər edəcək.",negative
+42,Genə iki il evdə məni dustaq eyliyə.,Yenə iki il məni evdə dustaq saxlayacaq.,negative
+43,"Vallah, dəxi gözləmənəm!","Yox, vallah, daha gözləməyəcəyəm.",positive
+44,"Onun fikri budur ki, atam evində mənim birçəyimi ağarda.","Onun fikri budur ki, atam evində mənim saçımı ağartsın.",negative
+45,"Eh, nə vəsvəsələr gəlir könlümə!","Eh, könlümdən nə fikirlər keçir.",negative
+46,"Şəksiz, yubanmağına başqa səbəb var.","Şübhəsiz, gecikməsinin başqa səbəbi var.",neutral
+47,"Ax, indi bu kolun dalında qulaq asıb eşidəydi ki, mən deyirəm: gedərəm özgəsinə.","Kaş indi bu kolun arxasında dayanıb eşidəydi ki, mən deyirəm, gedərəm başqasına.",negative
+48,Görəsən inanardımı?,Görəsən inanardımı?,neutral
+49,"Əlbəttə inanmayacaqdır, çünki bilir, yalan deyirəm.","Əlbəttə ki, inanmazdı, çünki bilir ki, yalan danışıram.",negative
+50,"Hövsələm daralıb, ağzıma gələni söyləyirəm.",Hirslənmişəm və ağlıma gələni deyirəm.,negative
+51,"Bıy, şıqqıltı gəlir.","Ay, bir səs gəlir.",neutral
